@@ -1,7 +1,7 @@
 This project include kalman filter application.
 
 1-Firstly u should see and understand how does Kalman filters works.
-  Here, u can find the topics of Kalman and Bayesian filters from link below
+  Here, u can find the topics of Kalman and Bayesian filters from link 
   https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python.git
 
 2-Then, you'll find our teams assignment for Kalman filter lesson project named as 
